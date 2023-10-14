@@ -1,0 +1,9 @@
+<<<<<<< HEAD
+#Sun May 01 13:48:40 EDT 2022
+base.0=D\:\\Study\\5520\\Final project\\Snow Ball\\Library\\Bee\\Android\\Prj\\Mono2x\\Gradle\\launcher\\build\\intermediates\\dex\\release\\mergeDexRelease\\classes.dex
+=======
+#Sun May 01 07:04:27 EDT 2022
+base.0=C\:\\CS5520_Final_Team28-Jiangwei\\Library\\Bee\\Android\\Prj\\Mono2x\\Gradle\\launcher\\build\\intermediates\\dex\\release\\mergeDexRelease\\classes.dex
+>>>>>>> 9bcf30da532c9c80d27e5816de58d1f8ab1015cb
+path.0=classes.dex
+renamed.0=classes.dex
