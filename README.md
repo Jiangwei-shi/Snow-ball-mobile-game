@@ -1,8 +1,8 @@
-# Snow-ball Mobile Game ⚪
+# Snow-ball Mobile Game  ❄
 
 Welcome to the Snow-ball mobile game repository! Dive into an exciting endless runner game where you play as a snowball trying to collect as many coins as possible.
 
-![Game Screenshot](link-to-your-game-screenshot)
+<img src="https://github.com/Jiangwei-shi/Snow-ball-mobile-game/blob/main/Screenshot/Screenshot_2023-10-15-05-58-40-507_com.Team28.Sno.jpg?raw=true" width="200px">
 
 ## Game Features 🎮
 
@@ -26,11 +26,13 @@ Welcome to the Snow-ball mobile game repository! Dive into an exciting endless r
 
 ## Screenshots 📸
 
-> Insert your game screenshots here.
+<img src="https://github.com/Jiangwei-shi/Snow-ball-mobile-game/blob/main/Screenshot/Screenshot_2023-10-15-05-58-40-507_com.Team28.Sno.jpg?raw=true" width="200px">
+<img src="https://github.com/Jiangwei-shi/Snow-ball-mobile-game/blob/main/Screenshot/Screenshot_2023-10-15-05-59-17-804_com.Team28.Sno.jpg?raw=true" width="200px">
+<img src="https://github.com/Jiangwei-shi/Snow-ball-mobile-game/blob/main/Screenshot/Screenshot_2023-10-15-06-07-32-744_com.Team28.Sno.jpg?raw=true" width="200px">
+<img src="https://github.com/Jiangwei-shi/Snow-ball-mobile-game/blob/main/Screenshot/Screenshot_2023-10-15-06-07-53-139_com.Team28.Sno.jpg?raw=true" width="200px"> 
+<img src="https://github.com/Jiangwei-shi/Snow-ball-mobile-game/blob/main/Screenshot/Screenshot_2023-10-15-06-08-37-472_com.Team28.Sno.jpg?raw=true?raw=true" width="200px">
+<img src="https://github.com/Jiangwei-shi/Snow-ball-mobile-game/blob/main/Screenshot/Screenshot_2023-10-15-05-59-01-465_com.Team28.Sno.jpg?raw=true" width="200px">
 
-- Screenshot 1: ![Screenshot Description](link-to-screenshot1)
-- Screenshot 2: ![Screenshot Description](link-to-screenshot2)
-- ... (add more as necessary)
 
 ## Feedback and Contributions 🤝
 
